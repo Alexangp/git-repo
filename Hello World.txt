@@ -1,4 +1,6 @@
-print("Hello WOrld!")
-print("Hello everybody!")
-Print("Hi pediki")
-print("Alloha")
+<<<<<<< HEAD
+print("Hello WOrld!");
+print("Hello everybody!");
+Print("Hi pediki");
+print("Alloha");
+
